@@ -45,4 +45,5 @@ You're free to use, modify, and distribute the scripts as long as you include th
 Feel free to reach out if you have any questions, suggestions, or issues related to the scripts or repository.
 
 Happy scripting and server management!
+
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
