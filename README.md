@@ -20,25 +20,22 @@ cd DevOps-Scripts-Ubuntu-CentOS
 ```
 
 ## Scripts
-scripts/ubuntu/: Ubuntu-specific scripts
-scripts/centos/: CentOS-specific scripts
-scripts/common/: Scripts common to both Ubuntu and CentOS
-Feel free to explore the scripts, modify them to suit your needs, and contribute improvements.
+Each script is located within its respective directory, organized by task or purpose. Refer to the README files within each directory for usage instructions and explanations.
 
+- `scripts/ubuntu/`: Ubuntu-specific scripts
+- `scripts/centos/`: CentOS-specific scripts
+- `scripts/common/`: Scripts common to both Ubuntu and CentOS
 # Ubuntu-CentOS-DevOps-Scripts
 A collection of DevOps scripts for Ubuntu and CentOS, aimed at streamlining and automating various system administration tasks.
 
 ## Contributing
+If you have scripts, enhancements, or fixes that you'd like to contribute, we welcome your contributions! Follow these steps:
 
-Contributions are welcome! If you have useful DevOps scripts to share, please fork this repository, add your scripts, and submit a pull request. Don't forget to provide clear descriptions and documentation for your scripts.
-
-Follow these steps:
-
-- Fork the repository.
-- Create a new branch for your feature or bug fix: git checkout -b feature-name.
-- Commit your changes: git commit -am 'Add new script'.
-- Push the branch: git push origin feature-name.
-- Create a Pull Request explaining your changes.
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix: `git checkout -b feature-name`.
+3. Commit your changes: `git commit -am 'Add new script'`.
+4. Push the branch: `git push origin feature-name`.
+5. Create a Pull Request explaining your changes.
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
@@ -48,4 +45,4 @@ You're free to use, modify, and distribute the scripts as long as you include th
 Feel free to reach out if you have any questions, suggestions, or issues related to the scripts or repository.
 
 Happy scripting and server management!
-
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
