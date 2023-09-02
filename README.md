@@ -2,6 +2,8 @@
 
 ![Ubuntu Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo57nX5Tyvdy8vikuMEfKozzTf_YibWXEQzg&usqp=CAU)
 
+![Centos logo](https://www.teimouri.net/wp-content/uploads/2019/09/centos-logo.png)
+
 
 
 This repository contains a collection of DevOps scripts for Ubuntu and CentOS. These scripts are designed to simplify and automate various system administration tasks commonly encountered in the world of DevOps.
